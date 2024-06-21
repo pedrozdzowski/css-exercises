@@ -52,7 +52,7 @@ ul {
   gap: 8px;
 }
 
-newcontainer{
+.newcontainer {
   display: flex;
   margin-left: auto;
   gap: 8px;
