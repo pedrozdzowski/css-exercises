@@ -39,3 +39,5 @@ img {
   align-items: center;
   flex-basis: 200px;
 }
+
+/* original solution - almost identical, but doesn't use flexbox for fullfruit class, instead just sets it with max-width */
