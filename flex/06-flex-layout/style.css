@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8 px;
 }
 
 input {
@@ -32,6 +33,7 @@ input {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 16px;
 }
 
 .headerfooter {
@@ -48,4 +50,13 @@ input {
   display: flex;
   gap: 16px;
   list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  padding-inline-start: 0px;
 }
