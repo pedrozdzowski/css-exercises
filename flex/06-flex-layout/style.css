@@ -19,7 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 8 px;
+  padding: 8px;
 }
 
 input {
@@ -50,6 +50,7 @@ input {
   display: flex;
   gap: 16px;
   list-style-type: none;
+  margin-block: auto;
 }
 
 a {
